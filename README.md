@@ -12,6 +12,6 @@
 - [ ] [Homework 07 – Product Recommendation](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2007)
 - [ ] [Homework 08 – Campaign Response Model](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008)
 - [ ] [Homework 09 – A/B Testing](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009)
-- [ ] [Homework 10 – Customer Movement Analysis](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010)
+- [x] [Homework 10 – Customer Movement Analysis](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010)
 - [ ] [Homework 11 – Customer Voice Analysis ](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2011)
 - [ ] [Homework 12 - Design Thinking](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2012)
