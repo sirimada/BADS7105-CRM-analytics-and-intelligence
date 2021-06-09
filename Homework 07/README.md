@@ -10,3 +10,8 @@ A survey asking whether or not the user (students from the class) has ever purch
 ![Top10mostselling](https://user-images.githubusercontent.com/77830438/121325732-0c820380-c93c-11eb-9488-0d609c76373e.png)  ![Top10leastselling](https://user-images.githubusercontent.com/77830438/121325769-16a40200-c93c-11eb-8a7d-c941c17c7fae.png)
 
 
+### Association Rules
+set min support = 0.5
+
+![Association Rule](https://user-images.githubusercontent.com/77830438/121325985-4d7a1800-c93c-11eb-9ed1-b41c7089c808.png)
+
