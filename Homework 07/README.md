@@ -18,6 +18,9 @@ set min support = 0.5
 ![lift_confidence](https://user-images.githubusercontent.com/77830438/121326283-9c27b200-c93c-11eb-9c30-ea7d9c06a74b.png)
 
 
-focus on 1-item set
+focus on 1-item set and rules that lift rank in top 100
 ![Association Rule](https://user-images.githubusercontent.com/77830438/121325985-4d7a1800-c93c-11eb-9ed1-b41c7089c808.png)
 
+### Colaborative filtering 
+
+![Co-sine](https://user-images.githubusercontent.com/77830438/121326791-11938280-c93d-11eb-849e-f961bf533a62.png)
