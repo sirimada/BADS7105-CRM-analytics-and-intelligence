@@ -14,4 +14,4 @@
 - [x] [Homework 09 – A/B Testing](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009)
 - [x] [Homework 10 – Customer Movement Analysis](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010)
 - [ ] [Homework 11 – Customer Voice Analysis ](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2011)
-- [ ] [Homework 12 - Design Thinking](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2012)
+- [x] [Homework 12 - Design Thinking](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2012)
