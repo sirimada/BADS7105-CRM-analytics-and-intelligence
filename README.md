@@ -7,7 +7,7 @@
 - [x] [Homework 02 - Jobs to be done](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2002)
 - [x] [Homework 03 – Value Proposition](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2003)
 - [x] [Homework 04 – Customer Journey](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2004)
-- [ ] [Homework 05 – CLV Dashboard](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2005)
+- [x] [Homework 05 – CLV Dashboard](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2005)
 - [ ] [Homework 06 – Customer Segmentation](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2006)
 - [x] [Homework 07 – Product Recommendation](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2007)
 - [ ] [Homework 08 – Campaign Response Model](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008)
