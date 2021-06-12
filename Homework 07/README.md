@@ -24,3 +24,9 @@ focus on 1-item set and rules that lift rank in top 100
 ### Colaborative filtering 
 
 ![Co-sine](https://user-images.githubusercontent.com/77830438/121326791-11938280-c93d-11eb-849e-f961bf533a62.png)
+
+Conclusion
+- คนที่เคยซื้อคอลลาเจน มักเคยซื้อที่ยกน้ำหนัก (ผอมด้วยหน้าต้องไม่เหี่ยวด้วย!!!)
+- คนที่เคยซื้อชุดนอนไม่ได้นอน มักเคยซื้อเสื้อซีทรู (วู้ว)
+- คนที่เคยซื้อกระเป๋า chanel มักเคยซื้อ Brownie อวกาศ 
+- คนที่เคยซื้อไฟอัจฉริยะ มักจะเคยซื้อตาชั่งและเครื่องดูดฝุ่นอัจฉริยะ (สาย gadget)
