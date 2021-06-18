@@ -10,7 +10,7 @@
 - [x] [Homework 05 – CLV Dashboard](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2005)
 - [x] [Homework 06 – Customer Segmentation](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2006)
 - [x] [Homework 07 – Product Recommendation](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2007)
-- [ ] [Homework 08 – Campaign Response Model](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008)
+- [x] [Homework 08 – Campaign Response Model](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2008)
 - [x] [Homework 09 – A/B Testing](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2009)
 - [x] [Homework 10 – Customer Movement Analysis](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2010)
 - [x] [Homework 11 – Customer Voice Analysis ](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/tree/main/Homework%2011)
