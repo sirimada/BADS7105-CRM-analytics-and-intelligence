@@ -19,7 +19,7 @@ Customers are grouped into 4 categories defined by the definition below.
 
 ### Data Preparation :chart_with_upwards_trend:
 ###### Using SQL script in Google Bigquery to prepare the data for reporting. 
-**SQL** [customer_movement.sql](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/blob/main/Homework%2010/customer_movement.sql)
+
 ### Result :bar_chart:
 ###### Create visualization using PowerBI
 
