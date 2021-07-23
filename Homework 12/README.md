@@ -1,5 +1,5 @@
 ## Homework 12 | Design Thinking
-:mortar_board: 6210422031 
+:mortar_board: 6210422031. 
 
 Full version: [smart glasses](https://github.com/sirimada/BADS7105-CRM-analytics-and-intelligence/blob/main/Homework%2012/HW12_Design%20Thinking.pdf)
 
