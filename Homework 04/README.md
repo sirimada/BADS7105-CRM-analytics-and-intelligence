@@ -1,5 +1,5 @@
 ## Homework 04 | Customer Journey
-:mortar_board: 6210422031
+:mortar_board: 6210422031.
 
 <img width="820" alt="Customer Journey_1" src="https://user-images.githubusercontent.com/77830438/120903075-41f1cd00-c66e-11eb-8675-a31b60a48305.png">
 
