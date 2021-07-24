@@ -1,5 +1,5 @@
 ## Homework 06 | Customer Segmentation
-:mortar_board: 6210422031.
+:mortar_board: 6210422031
 
 
 ![image](https://user-images.githubusercontent.com/77830438/121920740-86fabb00-cd62-11eb-918c-daaba07f011e.png)
